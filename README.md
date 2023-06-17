@@ -6,20 +6,21 @@
 <p align="center">
   Hi folks 👋, I'm Akhid Nukhlis.
   <br>
-  A passionate design and software developer from Indonesia
+  A passionate design and software developer from Indonesia.
 </p>
 
-<div></div>
-
-
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 <div align="center" style="margin:0 2 0 2">
   <img src="https://komarev.com/ghpvc/?username=akhidnukhlis&style=flat-square&color=blue" alt=""/>
   <br>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akhidnukhlis&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akhidnukhlis&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
+
 
 <br>
 
