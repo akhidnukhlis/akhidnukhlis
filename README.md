@@ -9,16 +9,38 @@
   A passionate design and software developer from Indonesia.
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
+<p align="center">
+  <a href="https://github.com/akhidnukhlis">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  </a>
+  <a href="https://github.com/akhidnukhlis">
+    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
+  </a>
+  <a href="https://github.com/akhidnukhlis">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/akhidnukhlis">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
+  </a>
+  <a href="https://github.com/akhidnukhlis?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 
-<div align="center" style="margin:0 2 0 2">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=akhidnukhlis&style=flat-square&color=blue" alt=""/>
   <br>
-</div>
+</p>
+
+  <br>
+  <p align="center" >
+    <a href="https://wangchujiang.com/">
+      <img src="https://github-profile-trophy.vercel.app/?username=akhidnukhlis&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=3" />
+    </a>
+  </p>
 
 
 
