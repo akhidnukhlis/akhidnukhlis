@@ -4,7 +4,7 @@
 
 <!-- Title -->
 <h3 align="center">
-        <samp>&gt; Hey There! 👋, I am
+        <samp>&gt; Hi There! 👋, I am
                 <b><a target="_blank" href="https://www.linkedin.com/in/akhidnukhlis/">Akhid Nukhlis</a></b>
         </samp>
 </h3>
