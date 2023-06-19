@@ -36,9 +36,9 @@
         <a href="https://github.com/akhidnukhlis?tab=repositories" target="_blank"><img alt="Kotlin"
                         src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
         </a>
-        <!-- Figma -->
-        <a href="https://github.com/akhidnukhlis?tab=repositories" target="_blank"><img alt="Figma"
-                        src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+        <!-- Javascript -->
+        <a href="https://github.com/akhidnukhlis?tab=repositories" target="_blank"><img alt="Javascript"
+                        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         </a>
 </p>
 
@@ -58,8 +58,8 @@
 
 <h6 align="left">Connect with me:</h6>
 <p align="left">
-<a href="https://linkedin.com/in/akhidnukhlis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhidnukhlis" height="15" width="25" /></a>
-<a href="https://instagram.com/akhidnukhlis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhidnukhlis" height="15" width="25" /></a>
-<a href="https://dribbble.com/akhidnukhlis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="akhidnukhlis" height="15" width="25" /></a>
-<a href="https://medium.com/akhidnukhlis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="akhidnukhlis" height="15" width="25" /></a>
+<a href="https://linkedin.com/in/akhidnukhlis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhidnukhlis" height="20" width="30" /></a>
+<a href="https://instagram.com/akhidnukhlis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhidnukhlis" height="20" width="30" /></a>
+<a href="https://dribbble.com/akhidnukhlis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="akhidnukhlis" height="20" width="30" /></a>
+<a href="https://medium.com/@akhidnukhlis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="akhidnukhlis" height="20" width="30" /></a>
 </p>
