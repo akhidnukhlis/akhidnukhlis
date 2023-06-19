@@ -38,7 +38,7 @@
         </a>
         <!-- Figma -->
         <a href="https://github.com/akhidnukhlis?tab=repositories" target="_blank"><img alt="Figma"
-                        src="![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)">
+                        src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
         </a>
 </p>
 
