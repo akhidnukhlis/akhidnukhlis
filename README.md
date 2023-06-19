@@ -15,7 +15,7 @@
         <samp>
                 「 I'm a software engineer and product designer from <b>Indonesia</b> 」
                 <br>
-                「 Focusing on making useful applications to help in life</b> 」
+                「 Focus on making useful applications to help in life</b> 」
                 <br>
                 <br>
         </samp>
