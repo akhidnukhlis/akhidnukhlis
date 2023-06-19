@@ -36,9 +36,9 @@
         <a href="https://github.com/akhidnukhlis?tab=repositories" target="_blank"><img alt="Kotlin"
                         src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
         </a>
-        <!-- Arduino -->
-        <a href="https://github.com/akhidnukhlis?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        <!-- Figma -->
+        <a href="https://github.com/akhidnukhlis?tab=repositories" target="_blank"><img alt="Figma"
+                        src="![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)">
         </a>
 </p>
 
