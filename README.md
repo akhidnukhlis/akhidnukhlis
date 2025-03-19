@@ -21,15 +21,15 @@
         </samp>
         <!-- Technologies -->
         <!-- Java -->
-        <a href="https://github.com/akhidnukhlis/simple-crud-java-quarkus" target="_blank"><img alt="Java"
+        <a href="https://github.com/akhidnukhlis/simple-crud-java-quarkus" target="https://github.com/akhidnukhlis?tab=repositories&q=&type=&language=java&sort="><img alt="Java"
                         src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
         </a>
         <!-- Golang -->
-        <a href="https://github.com/akhidnukhlis/simple-crud-golang-echo" target="_blank"><img alt="Golang"
+        <a href="https://github.com/akhidnukhlis/simple-crud-golang-echo" target="https://github.com/akhidnukhlis?tab=repositories&q=&type=&language=go&sort="><img alt="Golang"
                         src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
         </a>
         <!-- Php -->
-        <a href="https://github.com/akhidnukhlis/simple-crud-restapi-codeigniter" target="_blank"><img alt="Php"
+        <a href="https://github.com/akhidnukhlis/simple-crud-restapi-codeigniter" target="https://github.com/akhidnukhlis?tab=repositories&q=&type=&language=php&sort="><img alt="Php"
                         src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
         </a>
         <!-- Kotlin -->
@@ -37,11 +37,11 @@
                         src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
         </a>
         <!-- Javascript -->
-        <a href="https://github.com/akhidnukhlis?tab=repositories" target="_blank"><img alt="Javascript"
+        <a href="https://github.com/akhidnukhlis?tab=repositories" target="https://github.com/akhidnukhlis?tab=repositories&q=&type=&language=javascript&sort="><img alt="Javascript"
                         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         </a>
         <!-- Python -->
-        <a href="https://github.com/akhidnukhlis?tab=repositories" target="_blank"><img alt="Python"
+        <a href="https://github.com/akhidnukhlis?tab=repositories" target="https://github.com/akhidnukhlis?tab=repositories&q=&type=&language=python&sort="><img alt="Python"
                         src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
         </a>
 </p>
